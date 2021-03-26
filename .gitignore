@@ -1,0 +1,10 @@
+marketmais/__pycache__/*
+marketmais/settings.py
+apimarketplace/imagens/*
+apimarketplace/__pycache__/*
+apimarketplace/migrations/__pycache__/*
+apimarketplace/models/__pycache__/*
+apimarketplace/serializer/__pycache__/*
+apimarketplace/views/__pycache__/*
+db.sqlite3
+maiscommercepy
